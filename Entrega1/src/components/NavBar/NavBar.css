@@ -14,15 +14,17 @@ img{
     padding: 1rem;
 }
 
-.nav-bar-options{
-    display: flex;
-    justify-content: space-around;
-    width:100%;
-    cursor: pointer;
-    color: blue;
-    list-style: none;
-}
 
+.nav-bar-options{
+    gap:10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    cursor: pointer;
+    width:100%;
+    color: blue;
+
+}
 
 .nav-bar-item:hover{
     color: blueviolet;

@@ -4,11 +4,15 @@
 
 ## Tecnologías utilizadas
 
--** React **
--** JavaScript **  
--** CSS **
--** HTML **
--** React Icons **
+** React **
+
+** JavaScript **
+
+** CSS **
+
+** HTML **
+
+** React Icons **
 
 ## Entrega N°1
 

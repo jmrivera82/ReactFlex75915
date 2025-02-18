@@ -1,35 +1,35 @@
-## PROYECTO REACT FLEX 75915 
+# PROYECTO REACT FLEX 75915 
 
-# E-COMMERCE SNACKMANIA
+## E-COMMERCE SNACKMANIA
 
-# Tecnologías utilizadas
+## Tecnologías utilizadas
 
--- React
--- JavaScript  
--- CSS
--- HTML
--- React Icons
+-** React
+-** JavaScript  
+-** CSS
+-** HTML
+-** React Icons
 
-### Entrega N°1
+## Entrega N°1
 
-## Características
+# Características
 
-** Página de inicio presentación del E-Commerce
-** Navbar con logotipo y carrito
-** Prop con mensaje de bienvenida
-** Cards de muestra
+-** Página de inicio presentación del E-Commerce
+-** Navbar con logotipo y carrito
+-** Prop con mensaje de bienvenida
+-** Cards de muestra
 
 
-## Instalación
+# Instalación
 
-** Clonar carpeta de github https://github.com/jmrivera82/ReactFlex75915.git
+Clonar carpeta de github https://github.com/jmrivera82/ReactFlex75915.git
 cd carpeta_del_proyecto
 npm install
 npm run dev
 
 ----------------------------
 
-## Realizado por José Rivera
+# Realizado por José Rivera
 
-** Desarrollado en Visual Studio Code
-** Linux Debian 12
+Desarrollado en Visual Studio Code
+Linux Debian 12
